@@ -1,0 +1,11 @@
+{
+    "email_from": "seu_email@example.com",
+    "email_to": "destinatario@example.com",
+    "smtp_server": "smtp.example.com",
+    "smtp_port": 587,
+    "email_password": "sua_senha",
+    "slack_webhook_url": "https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX",
+    "telegram_bot_token": "SEU_TOKEN_DE_BOT",
+    "telegram_chat_id": "SEU_CHAT_ID"
+}
+
